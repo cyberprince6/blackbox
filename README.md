@@ -20,8 +20,8 @@ Currently, it can do:
     
     usage: blackbox [-h] [--version] -p PORTS PORTS -t TARGET -m MODE
      --ports PORTS PORTS Port interval to scan -t TARGET, --target TARGET Target host -m MODE, --mode MODE scan mode: 1-syn, 2-xmas, 3-fin, 4-null, 5-ack 
-    
-    </br>
+    \
+   
  2.Network Sniffer
  
  A packet sniffer. Collect packets until ctrl+c pressed or after -t seconds
@@ -33,6 +33,7 @@ optional arguments:
                         pcap file name (don't give extension)
   -nr, --noraw          No Raw mode, Stops printing raw packets
   -t TIME, --time TIME  Capture time in second
+  \
 
 3.Password cracking
 
