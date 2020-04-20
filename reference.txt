@@ -1,0 +1,7 @@
+1.https://github.com/dmbb/Rainfall
+2.https://github.com/Rassilion/sniffer/blob/master/sniffer.py
+3.https://github.com/Starwarsfan2099/Python-Hash-Cracker/blob/master/Hash-Cracker-3.py
+4.https://github.com/ankitdobhal/regpy
+5.https://github.com/skavngr/rapidscan
+6.https://stackoverflow.com/questions/52341845/list-local-running-services-on-windows-10-using-python
+
